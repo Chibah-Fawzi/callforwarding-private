@@ -1,5 +1,5 @@
 # callforwarding-server
 
 To run the server :
-`npm install`
+`npm install` <br>
 `nodemon app`
