@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/cli": "^1.1.4",
+    "@vonage/server-sdk": "^2.11.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "bootstrap": "^5.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "stripe": "^10.12.0"
+  }
+}
